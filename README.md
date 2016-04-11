@@ -1,2 +1,2 @@
 # circularbuffer
-A memory efficient CircularBuffer that supports Random Access
+A memory efficient CircularBuffer that supports Random Access.
