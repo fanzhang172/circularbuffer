@@ -1,4 +1,4 @@
-package com.fz.circularbuffer;
+package com.fz172.circularbuffer;
 
 
 /**
